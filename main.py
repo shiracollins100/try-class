@@ -1,6 +1,5 @@
 
-#  ---  1  ---
-import module1
+print("Cat")
 def main():
     module1.manage_library()
 main()
